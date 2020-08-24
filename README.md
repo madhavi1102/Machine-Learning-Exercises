@@ -15,6 +15,6 @@
    fitting it to the periodic function
    plot the fit Data Max = 39, 41, 43, 47, 49, 51, 45, 38, 37, 29, 27, 25 Min = 21, 23, 27, 28, 32, 35, 31, 28, 21, 19, 17, 18
 
-3.2. For Titanic dataset
-    Create a pie chart presenting the male/female proportion
-    Create a scatterplot with the Fare paid and the Age, differ the plot color by gender
+   3.2. For Titanic dataset
+     Create a pie chart presenting the male/female proportion
+     Create a scatterplot with the Fare paid and the Age, differ the plot color by gender
